@@ -1,0 +1,1 @@
+# C5RA_Hospedaplus_Simulated_ChannelManager
